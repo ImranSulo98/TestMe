@@ -13,7 +13,7 @@ You can also view a list of the scores.
 The program is error proof!
 
 
-To run the program you first need to create a database named "testme" in mysql workbench and copy/paste the tables, which are in the Database.txt file.
+To run the program you first need to create a database named "testme" with username:"root" and password "root" in mysql workbench and copy/paste the tables, which are in the Database.txt file.
 The starting class to run is "Choose".
 The log in credentials for the teacher are "admin", "admin"
 As a teacher, you need to add 20 questions in a sub-category in order to succesfully start an exam in the same sub-category.
